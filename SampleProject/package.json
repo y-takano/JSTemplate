@@ -1,0 +1,14 @@
+{
+  "name": "SampleProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "..\\node_modules\\.bin\\karma start --single-run"
+  },
+  "dependencies": {
+    "jasmine-node": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
